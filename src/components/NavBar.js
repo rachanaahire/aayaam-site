@@ -3,7 +3,6 @@ import { Navbar, Nav, Container, Modal } from 'react-bootstrap';
 import Home from './Home';
 import AboutUs from './AboutUs';
 import Events from './Events';
-import Members from './Members';
 import ContactUs from './ContactUs';
 
 function NavBar() {

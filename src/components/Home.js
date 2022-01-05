@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
 
 
 function Home() {
-    const [nav, setNav] = useState('');
     return (
         <>
             <Carousel>
